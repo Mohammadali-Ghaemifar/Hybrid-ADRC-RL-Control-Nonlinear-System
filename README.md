@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB/Simulink implementation of a **hybrid ADRC–RL controller** for a **nonlinear industrial valve** with friction and time delay. The RL agent is trained and evaluated in closed loop with an **Active Disturbance Rejection Controller (ADRC)**, where **ADRC and RL act in series** during training and testing.
 
-![Block Diagram](Block Diagram.png)
+![Block Diagram](Results/Block Diagram.png)
 
 ---
 
