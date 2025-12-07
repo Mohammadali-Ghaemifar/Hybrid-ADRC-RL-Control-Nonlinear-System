@@ -1,4 +1,4 @@
-# Hybrid ADRC–DDPG Control of a Nonlinear Industrial System
+# Hybrid ADRC–RL Control of a Nonlinear System
 
 This repository contains the MATLAB/Simulink implementation of a **hybrid ADRC–RL controller** for a **nonlinear industrial valve** with friction and time delay. The RL agent is trained and evaluated in closed loop with an **Active Disturbance Rejection Controller (ADRC)**, where **ADRC and RL act in series** during training and testing.
 
@@ -8,7 +8,7 @@ This repository contains the MATLAB/Simulink implementation of a **hybrid ADRC�
 
 ## 🧩 Simulation & Software Environment
 
-- MATLAB & Simulink **R2024a**
+- MATLAB & Simulink R2024a
 - Reinforcement Learning Toolbox
 - Custom nonlinear valve model with:
   - Static & dynamic friction
